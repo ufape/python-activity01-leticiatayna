@@ -37,6 +37,7 @@ Contracheque
 
 
 def main():
+    
     print("Programa Simples de Pagamento\n")
     horas_trabalhadas = int(input("Informe quantas horas você trabalhou: "))
     print("\nContracheque")

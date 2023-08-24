@@ -30,7 +30,6 @@ Exemplo:
 
 
 def main():
-    
     PI = 3.14159
     raio = float(input("Digite o valor do raio: "))
 

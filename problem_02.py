@@ -28,6 +28,7 @@ Soma = 19
 
 
 def main():
+ 
  a = int(input("Digite o valor de A: "))
  b = int(input("Digite o valor de B: "))
     

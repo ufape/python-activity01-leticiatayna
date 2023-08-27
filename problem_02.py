@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME
+# YOUR FULL NAME MARIA IZABEL SILVA GOMES
 # UAG00098
 # Problem Set 1 - Problem 2
 # Description:
@@ -29,11 +29,11 @@ Soma = 19
 
 def main():
   a = int(input("Digite o valor de A: "))
- b = int(input("Digite o valor de B: "))
-    
- soma = a + b 
+  b = int(input("Digite o valor de B: "))
   
- print(f"Soma = {soma}")
+  soma = a + b
+  
+  print(f"Soma = {soma}")
 
 
 if __name__ == '__main__':
